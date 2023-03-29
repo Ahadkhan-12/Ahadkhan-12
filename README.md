@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React , Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ahadkhan-12](https://github.com/Ahadkhan-12)
+- 👨‍💻 All of my projects are available at [Ahadkhan-12](https://github.com/Ahadkhan-12)
 
 - 📫 How to reach me **mdahadkhan178@gmail.com**
 

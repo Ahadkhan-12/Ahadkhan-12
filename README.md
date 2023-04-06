@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ahad Khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1679848595~exp=1679849195~hmac=5f52cc87d7dc8f5309b7e92afc4c0cd2cdde6b94288b88e9033decb0e53318e0">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1680796883~exp=1680797483~hmac=15f1dd21a696be450e09efd12d3bad468ee37d1c77174f0de59a9419279e56fc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadkhan-12&label=Profile%20views&color=0e75b6&style=flat" alt="ahadkhan-12" /> </p>
 
